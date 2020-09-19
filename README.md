@@ -13,5 +13,6 @@ UBP is a platform which is based on JavaScript and Node.js, implementing a block
 ### trustee
 The trustee can report and manage the content in the application, and the mediator exercises the power to purify the content environment of the entire application and prevent the application from spreading bad information through the reporting function.
 ### publisher
-The author of an article gets a reward for publishing his own content
-###comment user
+The author of an article gets a reward by publishing his own content
+### comment user
+Users are a universal character and can comment on posts, reward posts, respond to comments and comment on thumb up. Users can play the role of publisher by creating channels and publishing articles.
